@@ -139,12 +139,9 @@ const Weather = () => {
                     value={city}
                     onChange={handleCityChange}
                     endDecorator={
-                      <Button
-                        variant="plain"
-                        color="neutral"
-                        endDecorator={<SearchIcon />}
-                        onClick={handleSearch}
-                      ></Button>
+                      <SearchIcon onClick={handleSearch} />
+                        
+                      
                     }
                     sx={{ width: 300 }}
                   />
