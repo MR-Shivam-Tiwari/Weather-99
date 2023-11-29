@@ -1,4 +1,10 @@
 # Getting Started with Create React App
+<img width="960" alt="fdsave" src="https://github.com/MR-Shivam-Tiwari/Weather-99/assets/114647321/a7b57ab1-38e7-4348-833e-0849be6fe363">
+
+ #Mobile View 
+<img width="958" alt="fdf" src="https://github.com/MR-Shivam-Tiwari/Weather-99/assets/114647321/2fa897e1-a868-4d1b-ba9a-05604f200901">
+
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
